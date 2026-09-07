@@ -3,23 +3,18 @@
 ### 💻 Front-End Developer. <br>
 ### 🚀 Front-End Trainee at Route Academy. <br>
 
-<hr style="border:0;height:2px;background:linear-gradient(to right,#ff6a00,#ee0979);">
 
 ## 👩🏻‍💻 About Me:
----------------
 
 I am a frontend developer skilled in React, Next.js, TypeScript, and Tailwind CSS. I build clean, responsive, user-friendly interfaces with strong attention to detail and modern best practices. I approach each task with precision and adaptability. Beyond technical skills, I value clarity, collaboration, and continuous learning. I enjoy sharing knowledge, exploring new tools, and pushing boundaries to deliver interfaces that work flawlessly and inspire users.
-         
-          **************************************************************************************************
+      **************************************************************************************************
 ## 🛠 Skills: <br>
--------------
 
 🔸**HTML5 ➖ CSS3 ➖ JavaScript ➖ TypeScript ➖ JQuery** <br>
 🔸**React.js ➖ ReactQuery ➖ Next.js ➖ Redux ➖ Context API** <br>
 🔸**Bootstrap5 ➖ Tailwind CSS ➖ Figma ➖ Sass**  <br>
 🔸**Responsive Design ➖ Accessibility** <br>
-          
-          **************************************************************************************************
+        **************************************************************************************************
 
 ## 📬 How to reach me: <br>
 ----------------------
