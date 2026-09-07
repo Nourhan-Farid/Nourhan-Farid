@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-![Header](https://your-banner-link.com/banner.png)
+![Header]([https://your-banner-link.com/banner.png](https://gradients.juangarcia.ch/?c1=556270&c2=4ECDC4&c3=C7F464&c4=FF6B6B&c5=C44D58&amount=0.14&fx=0.7&fy=6))
 
 <h1 align="center">✨ Nourhan Farid ✨</h1>
 <h3 align="center">Frontend Developer | React • Next.js • TypeScript • Tailwind CSS</h3>
