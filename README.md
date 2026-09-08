@@ -28,22 +28,22 @@ I am a front-end developer skilled in React, Next.js, TypeScript, and Tailwind C
 ---
 
 ## 📌 Featured Projects
-- **[Shopıfya*E?Commerce](ca://s?q=Showcase_Shopıfya_on_GitHub)**  
+- **[Shopıfya*E?Commerce](ca://s?q=Showcase_Shopıfya_on_GitHub)**  <br> 
   [Live Demo](https://shopifya-weld.vercel.app/) | [Repo](https://github.com/Nourhan-Farid/Shopifya)
 
-- **[YummiesTaste](ca://s?q=Showcase_YummiesTaste_on_GitHub)** 
+- **[YummiesTaste](ca://s?q=Showcase_YummiesTaste_on_GitHub)** <br>
   [Live Demo](https://yummies-taste.vercel.app/) | [Repo](https://github.com/Nourhan-Farid/YummiesTaste)
 
-- **[Portfolio](ca://s?q=Showcase_portfolio_on_GitHub)**   
+- **[Portfolio](ca://s?q=Showcase_portfolio_on_GitHub)**    <br>
   [Live Demo](https://portfolio-seven-green-31.vercel.app/) | [Repo](https://github.com/Nourhan-Farid/portfolio)
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/nourhanfarid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nourhan@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/nourhan-farid"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+  <a href=" https://www.linkedin.com/in/nourhan-farid-4b200828b/"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="45" height="45" /></a>
+  <a href="mailto:nourhanfarid883@gmail.com"><img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" width="45" height="45" /></a>
+  <a href="https://portfolio-seven-green-31.vercel.app/"><img src="https://img.icons8.com/?size=100&id=EdbWJahoDKjA&format=png&color=000000" width="45" height="45" /></a>
 </p>
 
 ---
