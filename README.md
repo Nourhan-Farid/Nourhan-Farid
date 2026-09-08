@@ -1,8 +1,11 @@
-<!-- Header Banner -->
-![Header](https://lottie.host/embed/eff94420-89ac-4432-8508-5adacc52d021/SnK4XxNH8H.lottie)
+<div align="center">
 
-<h1 align="center">✨ Nourhan Farid ✨</h1>
-<h3 align="center">Frontend Developer | React • Next.js • TypeScript • Tailwind CSS</h3>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:002767,50:c43b8e,100:f9f871&height=220&section=header&text=✨Nourhan%20Farid✨&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Front%20End%20Developer&descAlignY=53&descSize=18&animation=fadeIn)
+
+<img src="https://readme-typing-svg.demolab.com?font=Lobster&size=25&duration=3000&pause=1000&color=ffe171&center=true&vCenter=true&width=800&lines=Front+End+Developer+%7C+React+%26+Next.js+%7C+Tailwind+CSS+%7C+TypeScript;Time+management+%26+organization+%7C+Fast+Learner;Building+Responsive+Interfaces+%26+Clean+Code" alt="Typing SVG" />
+
+
+<h3 align="center" color:'#f9f871'>Frontend Developer | React • Next.js • TypeScript • Tailwind CSS</h3>
 
 ---
 
