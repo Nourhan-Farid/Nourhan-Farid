@@ -17,11 +17,16 @@ I am a front-end developer skilled in React, Next.js, TypeScript, and Tailwind C
 <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="45"/>
+  <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" width="45" height="45"/>
+  <img src="https://img.icons8.com/?size=100&id=ARy6tFUfwclb&format=png&color=000000" width="45" height="45"/>
+  <img src="https://img.icons8.com/?size=100&id=9Um0Q4sZ0QCC&format=png&color=000000" width="45" height="45"/>
+  <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" width="45" height="45"/>
+  <img src="https://img.icons8.com/?size=100&id=bp24DwGXJDyT&format=png&color=000000" width="45" height="45"/>
   
 </p>
 
@@ -39,7 +44,7 @@ I am a front-end developer skilled in React, Next.js, TypeScript, and Tailwind C
 
 ---
 
-## 🌐 Connect With Me
+## 📬 How to reach me: <br>
 <p align="center">
   <a href=" https://www.linkedin.com/in/nourhan-farid-4b200828b/"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="45" height="45" /></a>
   <a href="mailto:nourhanfarid883@gmail.com"><img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" width="45" height="45" /></a>
