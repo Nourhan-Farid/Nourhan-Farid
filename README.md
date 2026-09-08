@@ -32,7 +32,7 @@ I am a front-end developer skilled in React, Next.js, TypeScript, and Tailwind C
 
 ---
 
-## 📌 Featured Projects:
+## 🔮 Featured Projects:
 🔸 **[Shopıfya-E-Commerce](ca://s?q=Showcase_Shopıfya_on_GitHub) :** 
   [Live Demo](https://shopifya-weld.vercel.app/) | [Repo](https://github.com/Nourhan-Farid/Shopifya)
 
